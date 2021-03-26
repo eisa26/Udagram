@@ -72,8 +72,7 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 
 ### Architecture Diagram
 
-![Diagram](Arch diagram.jpeg)
-
+![Arch diagram](https://user-images.githubusercontent.com/31704100/112654415-0a89c780-8e58-11eb-9089-23ac7827dc89.jpeg)
 The diagram is incomplet due to free-tier limitations of the software, I could not add more items into it.
 It shows only the most important concepts.
 
