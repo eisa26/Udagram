@@ -73,14 +73,10 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 ### Architecture Diagram
 
 ![Arch diagram](https://user-images.githubusercontent.com/31704100/112654415-0a89c780-8e58-11eb-9089-23ac7827dc89.jpeg)
-The diagram is incomplet due to free-tier limitations of the software, I could not add more items into it.
-It shows only the most important concepts.
+
 
 ### Scripts
 
 The project require to create a networking infrastructure, virtual machines, and file storage system in order to upload and test a web application. I created 4 Cloud Formation scripts and supporting bash scripts in order to simply create whole infrastructure whenever its needed 
 
 
-# Website Link :
-
-[http://udagram-820382128.us-west-2.elb.amazonaws.com](http://udagram-820382128.us-west-2.elb.amazonaws.com)
